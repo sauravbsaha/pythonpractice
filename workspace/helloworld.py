@@ -1,7 +1,7 @@
-# This is my first Python Script #
+                     # This is my first Python Script #
 
 # Printing Hello World 
-print("Hello World! The world of python looks awesome.") 
+print("Hello World!") 
 
 # Using variable for print statement
 language = "python"
