@@ -3,4 +3,4 @@
 
 ## This is a check for Github sync
 
-### Chapter 1
+### Chapter 1: Hello World
