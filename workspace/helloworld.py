@@ -1,4 +1,4 @@
-                     # This is my first Python Script #
+# This is my first Python Script #
 
 # Printing Hello World 
 print("Hello World!") 
