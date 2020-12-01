@@ -77,3 +77,5 @@ Ex_Files_Learning_Python_Upd/ExerciseFiles/Ch5/samplehtml.html
 Ex_Files_Learning_Python_Upd/ExerciseFiles/Ch5/samplexml.xml
 Ex_Files_Learning_Python_Upd/ExerciseFiles/Ch5/xmlparsing_finished.py
 Ex_Files_Learning_Python_Upd/ExerciseFiles/Ch5/xmlparsing_start.py
+workspace/FundamentalsPythonPointers.txt
+.gitignore
