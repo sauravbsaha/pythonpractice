@@ -19,4 +19,5 @@ This script deals with python variables (Digital containers).
 Hello World Script: Done \
 Date: December 02, 2020 \
 Script_name: workspace/function.py \
-This script introduces the audience with basic python function implementation
+This script introduces the audience with basic python function implementation.
+
