@@ -18,6 +18,6 @@ This script deals with python variables (Digital containers).
 ### Chapter 3: Functions in Python
 Hello World Script: Done \
 Date: December 02, 2020 \
-Script_name: workspace/variables.py
+Script_name: workspace/function.py
 This script introduces the audience with basic python function implementation 
 
