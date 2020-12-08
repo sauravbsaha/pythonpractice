@@ -41,3 +41,24 @@ def continueStatement():
         print(i)
 if __name__ == "__main__":
     continueStatement()
+
+Example 2: Continue
+
+def continueEx2():
+    for i in range(1,10):
+        if(i % 2 == 0 ): continue
+        print(i)
+
+if __name__=="__main__":
+    continueEx2()
+
+Finding index of array
+
+def indexFinder():
+    names="saurav", "aradhana", "arul"
+    for i,d in enumerate(names):
+        print(i,d)
+
+if __name__ == "__main__":
+    indexFinder()
+
