@@ -13,4 +13,31 @@ def whileloop(number):
     while(i<number+1):
         print(i)
         i=i+1
-whileloop(100)
+whileloop(10)
+
+# Foreach type statement in python
+names=("saurav", "aradhana", "samarpan")
+def forloopArray():
+       for n in names:
+           papa = "saurav"
+           if(n == papa):
+               print("papa of the house is:", n)
+
+if __name__=="__main__":
+    forloopArray()
+
+# Break statements in Python
+def breakstatement():
+    for i in range(5,10):
+        if(i ==7): break
+        print(i)
+if __name__ == "__main__":
+    breakstatement()
+
+# Continue statements in Python
+def continueStatement():
+    for i in range(5,10):
+        if(i ==7): continue
+        print(i)
+if __name__ == "__main__":
+    continueStatement()
